@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /produtor
+Disallow: /afiliado/dashboard
+
+Sitemap: https://angolamarket.ao/sitemap.xml

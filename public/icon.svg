@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#034694"/>
+  <!-- Subtle gradient background highlight -->
+  <circle cx="120" cy="90" r="220" fill="#1D4ED8" fill-opacity="0.5"/>
+  <circle cx="420" cy="420" r="180" fill="#0284C7" fill-opacity="0.3"/>
+  <!-- Central Stylized "A" + Market Gateway mark -->
+  <path d="M256 100L130 380H198L228 312H284L314 380H382L256 100Z" fill="#FFFFFF"/>
+  <path d="M256 186L236 254H276L256 186Z" fill="#034694"/>
+  <!-- Bag handle curve representing commerce / marketplace -->
+  <path d="M200 130C200 95 225 68 256 68C287 68 312 95 312 130" stroke="#F59E0B" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <!-- Golden geometric badge dot representing value & trust in Angola -->
+  <polygon points="256,220 264,236 282,238 268,250 272,268 256,258 240,268 244,250 230,238 248,236" fill="#F59E0B"/>
+</svg>
